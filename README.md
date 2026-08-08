@@ -1,8 +1,9 @@
 # 3D Stereo Scanner (Stardance)
+<img width="1920" height="1080" alt="thumbnail" src="https://github.com/user-attachments/assets/78f7b39c-279b-4be7-9d55-6489489822b5" />
 
 An advanced, high-precision static 3D stereo scanner designed to capture objects up to 20x20x20 cm with zero moving main-parts during the optical capture phase. Built with a Raspberry Pi 5 core and hardware-triggered global shutter cameras.
 
-##Hardware Architecture
+## Hardware Architecture
 
 * **Core Processor:** Raspberry Pi 5 (4GB RAM) running OpenCV in C++ for real-time 3D data computation.
 * **Optical Sensors:** 2 x Arducam IMX296 1.6MP Color Global Shutter camera modules. The global shutter mechanism is critical to capture the moving laser lines without motion distortion or "jello effect."
