@@ -1,5 +1,6 @@
 # 3D Stereo Scanner (Stardance)
-<img width="1920" height="1080" alt="thumbnail" src="https://github.com/user-attachments/assets/78f7b39c-279b-4be7-9d55-6489489822b5" />
+<img width="3300" height="1857" alt="6e9e0cfb-73e6-4550-b769-5586c5f62120" src="https://github.com/user-attachments/assets/aefd7d8b-96e4-44b2-8ee6-b6cac1f266e1" />
+
 
 An advanced, high-precision static 3D stereo scanner designed to capture objects up to 20x20x20 cm with zero moving main-parts during the optical capture phase. Built with a Raspberry Pi 5 core and hardware-triggered global shutter cameras.
 
