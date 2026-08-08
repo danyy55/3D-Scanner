@@ -12,7 +12,7 @@ An advanced, high-precision static 3D stereo scanner designed to capture objects
 * **Mirror Array:** An outer hexagon made of 6 front-surface plane mirrors tilted at precisely ~55.3° (17.3 cm width each).
 * **Underbelly Capture:** A 45° W-shaped optical structure placed underneath the transparent styrene base to eliminate blind spots and seamlessly capture the object's bottom and legs.
 
-## 💻 Software (C++ & OpenCV)
+## Software (C++ & OpenCV)
 
 The firmware is designed to operate in low-light conditions to isolate the structural green laser lines:
 1. **Exposure Control:** Manual shutter speed locking for complete noise removal.
@@ -20,7 +20,7 @@ The firmware is designed to operate in low-light conditions to isolate the struc
 3. **Region Isolation:** Custom Region of Interest (ROI) masks splitting the frame into the 6 mirror segments.
 4. **Point Cloud Generation:** Geometric transformation matrices and stereo triangulation algorithms projecting the visual data into a `std::vector<cv::Point3f>` point cloud.
 
-## 📁 Repository Structure
+## Repository Structure
 
 * `/CAD` - Contains the 3D geometric assembly designs and `.STEP` structural exports.
 * `/firmware` - Source code, algorithm outlines, and OpenCV main pipelines.
