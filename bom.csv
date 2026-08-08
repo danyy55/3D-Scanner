@@ -1,0 +1,14 @@
+﻿Part name,Quantity,Price,Source URL,Description,Total per part
+Raspberry Pi 5 (4GB),1,$131.91 ,https://www.optimusdigital.ro/ro/placi-raspberry-pi/12928-raspberry-pi-5-4gb.html?srsltid=AfmBOoqBJICI3t8JD5ersoYoR13m0YFtZOWoQCB5cZ-BGkdghKSgr1tA,Main single-board computer for C++ and OpenCV processing,$131.91 
+USB-C official Pi charger,1,$21.85 ,https://www.emag.ro/alimentator-usb-c-oficial-raspberry-pi-27w-5-1v-5a-negru-ai2318/pd/D5X3R43BM/,The proper charger,$21.85 
+RASPBERRY PI A2-CLASS SD CARD (64GB),1,$35.07 ,https://www.tme.eu/ro/details/sc1629m/raspberry-pi-accesorii/raspberry-pi/raspberry-pi-a2-class-sd-card-64gb/,High-performance A2 storage card for the operating system and saving 3D point clouds,$35.07 
+Raspberry Pi 5 cooler,1,$6.25 ,https://www.optimusdigital.ro/ro/accesorii/12940-ventilator-pentru-raspberry-pi-5.html?src=raspberrypi,Active cooler and heatsink to prevent CPU thermal throttling during 3D triangulation,$6.25 
+IMX296 Color Global Shutter,2,$64.99 ,https://www.arducam.com/1-58mp-imx296-color-global-shutter-camera-module-with-m12-lens-for-raspberry-pi.html,1.6MP Global Shutter camera module for stereoscopic vision without motion blur,$129.98 
+520nm green laser,2,$30.88 ,https://www.aliexpress.com/item/1005004640251062.html,"Line laser modules for scanning sweep, operating at 520nm for clean HSV filtering",$61.76 
+205x205 mm mirrors,1,$48.07 ,https://www.vidaxl.ro/e/vidaxl-placi-de-oglinda-fara-rama-16-buc.-205-cm-sticla/8719883873206.html,Mirror sheets to build the 6 first-surface outer plane mirrors for the hexagon,$48.07 
+Clear glass sheet,1,$9 ,https://www.hornbach.ro/p/placa-bravo-stiren-1000x500x2-mm-transparenta/5845233/,2mm rigid styrene sheet used as the non-reflective hexagonal base,$9.00 
+NEMA 17,1,$15 ,https://sigmanortec.ro/Nema17-1-7A-p125805463?SubmitCurrency=1&id_currency=2&gad_source=1&gad_campaignid=23069763085&gclid=CjwKCAjwhNbTBhB4EiwAsFSg-olEigexhIKIPGkabkirHy4V_uECBBVb-EM-psBKwHKtOe9QWYHv1RoC5O4QAvD_BwE,Stepper motor used for the automated laser sweep line rotation mechanism,$15.00 
+Aluminum extrusion,4,$5.33 ,https://www.mig24.ro/profil-aluminiu-20x20-canal-6-bh-084-111-001/?gad_source=1&gad_campaignid=21841510758&gclid=Cj0KCQjwp9vTBhCWARIsANaUrjt5oycQN_6SRpn_s9rx05vIcBO1u2k0JfDGMmAdQNtu1veaUHcLgfAaAslCEALw_wcB,Structural aluminum T-slot profiles to build the main frame structure of the scanner,$21.32 
+Solid State Relay 5v,1,$4 ,https://sigmanortec.ro/Releu-Solid-State-5V-1-canal-Low-Level-p126079810?SubmitCurrency=1&id_currency=2&gad_source=1&gad_campaignid=23069763085&gclid=Cj0KCQjwp9vTBhCWARIsANaUrjskWXBay__oieuT8OqYdOw1ZLuyw-IM79oEMgLI3_Rff5rKEG3sAmgaAh7bEALw_wcB,5V SSR module,$4.00 
+Dupont wires 30 cm(40 pieces),1,$2 ,https://www.bitmi.ro/electronica/40-fire-dupont-mama-mama-30cm-10503.html,,$2 
+Total,,$486.21 ,,,
